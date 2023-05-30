@@ -1,0 +1,5 @@
+[database]
+user=reddy
+password=reddyadmin
+host=database.cce1apktucvr.us-east-2.rds.amazonaws.com
+database=python_db
